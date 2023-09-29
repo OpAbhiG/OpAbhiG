@@ -1,7 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hello World 👋, I'm Abhishek Gholap</h1>
-<h3 align="center">Innovative Software Engineer Building Solutions for a Better Tomorrow A passionate Java developer from India </h3>
+<h4 align="center">As a fresh talent, Java enthusiast, and recent Computer Engineering graduate, I'm driven to combine my passion for data science and full-stack development to shape impactful solutions.
+I have good knowledge of C, C++, and Java programming languages,
+I'm also good in HTML CSS, MySQL and Android studio.
+Eager to build user-friendly interfaces and scalable applications by expanding my skill set across front-end and back-end technologies.
+I have done three projects which I have done 2 Android Applications and 1 web-based application. </h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
