@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hello World 👋, I'm Abhishek Gholap</h1>
-<h4 align="center">As a fresh talent, Java enthusiast, and recent Computer Engineering graduate, I'm driven to combine my passion for data science and full-stack development to shape impactful solutions.
+<h4 align="center">As a fresh talent, Java enthusiast, and recent Computer Engineering graduate in th year of 2023, I'm driven to combine my passion for full-stack development and Designing web and App to shape impactful solutions.
 I have good knowledge of C, C++, and Java programming languages,
 I'm also good in HTML CSS, MySQL and Android studio.
 Eager to build user-friendly interfaces and scalable applications by expanding my skill set across front-end and back-end technologies.
