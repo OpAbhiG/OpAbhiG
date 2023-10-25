@@ -8,7 +8,6 @@ Eager to build user-friendly interfaces and scalable applications by expanding m
 I have done three projects which I have done 2 Android Applications and 1 web-based application. </h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=opabhig&label=Profile%20views&color=0e75b6&style=flat" alt="opabhig" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
