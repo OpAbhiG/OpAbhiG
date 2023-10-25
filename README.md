@@ -7,7 +7,6 @@ I'm also good in HTML CSS, MySQL and Android studio.
 Eager to build user-friendly interfaces and scalable applications by expanding my skill set across front-end and back-end technologies.
 I have done three projects which I have done 2 Android Applications and 1 web-based application. </h4>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opabhig&label=Profile%20views&color=0e75b6&style=flat" alt="opabhig" /> </p>
 
