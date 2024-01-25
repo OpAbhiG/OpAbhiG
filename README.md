@@ -10,21 +10,34 @@
 
 - 🤝 I’m looking for new position to contribute my skills and knowlage. [Btech-Computer science and Engineering.](poss-out:2023)
 
-- 🌱 I’m currently learning **Advance Java, Spring, Spring Boot, hibernate tutorial, JDBC.**
+- 🌱 I’m currently learning **Core Java, Advance Java, Spring, Spring Boot, hibernate, JDBC.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishek-gholap/](https://www.linkedin.com/in/abhishek-gholap/)
 
 - 📝 I regularly write articles on [https://www.instagram.com/op_abhig/](https://www.instagram.com/op_abhig/)
 
-- 💬 Ask me about **Java, MySQL, Design.**
+- 💬 Ask me about **Java, MySQL, Design Modul.**
 
 - 📫 How to reach me **gholapabhishek9@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17bCaL-Z5375kzXfSmE930InJ8rjjZIRg/view?usp=drivesdk](https://drive.google.com/file/d/17bCaL-Z5375kzXfSmE930InJ8rjjZIRg/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think I am funny...**
 
-    ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)
+**Sanskrit:**
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ २-४७
+
+**Romanized:**
+Karmanye vadhikaraste Ma Phaleshu Kadachana,
+Ma Karmaphalaheturbhurma Te Sangostvakarmani
+
+**Translation:**
+You have the right to work only but never to its fruits.
+Let not the fruits of action be your motive, nor let your attachment be to inaction.
+
+This verse encourages focusing on the process of work rather than being overly attached to the outcomes.
+
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
