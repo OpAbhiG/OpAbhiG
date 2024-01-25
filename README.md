@@ -1,4 +1,5 @@
-  ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif)
+
 
 <h1 align="center">Hi 👋, I'm Abhishek.M.Gholap.</h1>
 <h3 align="center">A passionate Software Engineer from India A passionate Software Engineer from India. I'm a highly motivated Java enthusiast with a keen interest in developing efficient and reliable software solutions. As a detail-oriented fresher, I excel in delivering high-quality software components. Proficient in Java, MySQL, and Python intricacies, I am adept at utilizing HTML, CSS, and JavaScript for dynamic interface development. As a collaborative team player, I am committed to contributing effectively to projects.</h3>
