@@ -1,15 +1,12 @@
 <h1 align="center">Hello World 👋, I'm Abhishek Gholap.</h1>
 <h3 align="center">A passionate Software Engineer from India. I'm a highly motivated Java enthusiast with a keen interest in developing efficient and reliable software solutions. As a detail-oriented fresher, I excel in delivering high-quality software components. Proficient in Java, MySQL, and Python intricacies, I am adept at utilizing HTML, CSS, and JavaScript for dynamic interface development. As a collaborative team player, I am committed to contributing effectively to projects.</h3>
 
-- 🤝 I’m looking for new position to contribute my skills and knowlage. [Btech-Computer science and Engineering.](poss-out:2023)
+- 🤝 I’m looking for new position to contribute my skills and knowlage. [Btech-Computer science and Engineering.]
 
-- 🌱 I’m currently learning **Core Java, Advance Java, Spring, Spring Boot, hibernate, JDBC.**
+- 🌱 I’m currently learning **Core Java, Advance Java, Spring, Spring Boot, hibernate, JDBC. Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishek-gholap/](https://www.linkedin.com/in/abhishek-gholap/)
 
-- 📝 I regularly write articles on [https://www.instagram.com/op_abhig/](https://www.instagram.com/op_abhig/)
-
-- 💬 Ask me about **Java, MySQL, Design Modul.**
 
 - 📫 How to reach me **gholapabhishek9@gmail.com**
 
