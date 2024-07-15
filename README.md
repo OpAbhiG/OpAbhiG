@@ -13,22 +13,10 @@
 
 - 📫 How to reach me **gholapabhishek9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17bCaL-Z5375kzXfSmE930InJ8rjjZIRg/view?usp=drivesdk](https://drive.google.com/file/d/17bCaL-Z5375kzXfSmE930InJ8rjjZIRg/view?usp=drivesdk)
+- 📄 Know about my experiences :- https://drive.google.com/file/d/10szv3_huNGgtNOqQZ75Yqqkn8pwdDSMM/view?usp=drivesdk
+  
 
-
-**Sanskrit:**
-कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ २-४७
-
-**Romanized:**
-Karmanye vadhikaraste Ma Phaleshu Kadachana,
-Ma Karmaphalaheturbhurma Te Sangostvakarmani
-
-**Translation:**
-You have the right to work only but never to its fruits.
-Let not the fruits of action be your motive, nor let your attachment be to inaction.
-
-This verse encourages focusing on the process of work rather than being overly attached to the outcomes.
+  
 
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)
 
