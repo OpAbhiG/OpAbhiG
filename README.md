@@ -47,9 +47,9 @@ This verse encourages focusing on the process of work rather than being overly a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=opabhig&show_icons=true&locale=en&layout=compact" alt="opabhig" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opabhig&show_icons=true&locale=en" alt="opabhig" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=opabhig&label=Profile%20views&color=0e75b6&style=flat" alt="opabhig" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opabhig&" alt="opabhig" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opabhig" alt="opabhig" /></a> </p>
 
 
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif)
