@@ -1,11 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Abhishek Gholap.</h1>
 <h3 align="center">A passionate Software Engineer from India. I'm a highly motivated Java enthusiast with a keen interest in developing efficient and reliable software solutions. As a detail-oriented fresher, I excel in delivering high-quality software components. Proficient in Java, MySQL, and Python intricacies, I am adept at utilizing HTML, CSS, and JavaScript for dynamic interface development. As a collaborative team player, I am committed to contributing effectively to projects.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=opabhig&label=Profile%20views&color=0e75b6&style=flat" alt="opabhig" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opabhig" alt="opabhig" /></a> </p>
-
 - 🤝 I’m looking for new position to contribute my skills and knowlage. [Btech-Computer science and Engineering.](poss-out:2023)
 
 - 🌱 I’m currently learning **Core Java, Advance Java, Spring, Spring Boot, hibernate, JDBC.**
