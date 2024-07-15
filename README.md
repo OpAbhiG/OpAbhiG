@@ -30,7 +30,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opabhig" alt="opabhig" /></a> </p>
 
-https://miro.medium.com/v2/resize:fit:1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif
-
 
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif)
