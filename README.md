@@ -7,6 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishek-gholap/](https://www.linkedin.com/in/abhishek-gholap/)
 
+- Coding Ninja: [(https://www.naukri.com/code360/profile/OpAbhi)]
 
 - 📫 How to reach me **gholapabhishek9@gmail.com**
 
