@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Core Java, Advance Java, Spring, Spring Boot, hibernate, JDBC. Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishek-gholap/](https://www.linkedin.com/in/abhishek-gholap/)
+- 👨‍💻 All of my projects are available at [linkedin.com](https://www.linkedin.com/in/abhishek-gholap/)
 
 - Coding Ninja: [(https://www.naukri.com/code360/profile/OpAbhi)]
 
