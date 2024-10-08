@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [linkedin.com](https://www.linkedin.com/in/abhishek-gholap/)
 
-- Coding Ninja: [(https://www.naukri.com/code360/profile/OpAbhi)]
+- [Coding Ninja:](https://www.naukri.com/code360/profile/OpAbhi)
 
 - 📫 How to reach me **gholapabhishek9@gmail.com**
 
-- 📄 Know about my experiences :- https://drive.google.com/file/d/10szv3_huNGgtNOqQZ75Yqqkn8pwdDSMM/view?usp=drivesdk
+- 📄 Know about my experiences :- [Resume](https://drive.google.com/file/d/10szv3_huNGgtNOqQZ75Yqqkn8pwdDSMM/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
