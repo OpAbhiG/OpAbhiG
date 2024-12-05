@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Abhishek Gholap.</h1>
+<h1 align="center">Hello World 👋, I'm Abhishek</h1>
 <h5 align="left">A passionate Software Engineer from India. I'm a highly motivated Java enthusiast with a keen interest in developing efficient and reliable software solutions. As a detail-oriented fresher, I excel in delivering high-quality software components. Proficient in Java, MySQL, and Python intricacies, I am adept at utilizing HTML, CSS, and JavaScript for dynamic interface development. As a collaborative team player, I am committed to contributing effectively to projects.</h5>
 
 - 🤝 I’m looking for new position to contribute my skills and knowlage. [my background - Btech-Computer science and Engineering.]
